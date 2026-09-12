@@ -16,7 +16,7 @@ const arr = [
     { id: 2, name: 'Tailwind CSS', img: '/tailw.png' },
     { id: 3, name: 'JavaScript', img: '/js.png' },
     { id: 4, name: 'TypeScrpt', img: '/TS.png' },
-    { id: 5, name: 'React', img: '/react.png' },
+    { id: 5, name: 'React', img: '/React.png' },
     { id: 6, name: 'GSAP', img: '/GSAP.png' },
     { id: 7, name: 'Fr. Motion', img: '/Framar.png' },
     { id: 8, name: 'Express', img: '/Expres.png' },
@@ -31,7 +31,6 @@ const Hero = () => {
     useGSAP(() => {
         if (typeof window === 'undefined') return;
 
-        // Setăm starea vizibilă nativă înainte de split
         gsap.set(".skillCard", { opacity: 1, x: 0, scale: 1 });
 
         const h1Split = new SplitText(".h1FrontEnd", { type: "words" });
