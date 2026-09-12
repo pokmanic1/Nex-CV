@@ -3,7 +3,7 @@ import "./globals.css";
 export const metadata = {
   title: "CV",
   icons: {
-    icon: "/favicon.svg",
+    icon: "/CvIcon.png",
   },
 };
 
