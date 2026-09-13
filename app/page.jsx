@@ -162,15 +162,15 @@ const Hero = () => {
                                 <img src="/IMG-20260220-WA0000.jpg" className='heroImg h-[85%] sm:h-[90%] w-[55%] sm:w-[45%] md:w-[40%] bg-center object-cover rounded-full' alt="" />
                             </div>
                             <div className='w-full text-center h-[20%] border-b border-gray-400 '>
-                                <h1 className='h1FrontEnd w-full text-center text-white text-[22px] sm:text-[26px] md:text-[30px] font-semibold'>Frontend Developer</h1>
+                                <h1 className='h1FrontEnd w-full text-center text-white text-[22px] sm:text-[26px] md:text-[30px] font-semibold'>Full-Stack Developer</h1>
                                 <h1 className='h1Nume w-full text-center text-white text-[18px] sm:text-[21px] md:text-[24px]'>Cirjeu Dumitru</h1>
                             </div>
                             <div className='w-full h-[40%] flex flex-col justify-center items-center gap-1 px-2'>
                                 <h1 className='h1Contact text-center text-white text-[20px] sm:text-[24px] md:text-[28px] font-semibold leading-tight mb-2'>
                                     Contact
                                 </h1>
-                                <a href='mailto:cirjeu.dumitru@elev.cihcahul.md' className='aEmail block text-center text-white text-[13px] sm:text-[15px] md:text-[18px] hover:underline leading-tight break-all'>
-                                    Email: cirjeu.dumitru@elev.cihcahul.md
+                                <a href='mailto:cirjeudumitru1@gmail.com' className='aEmail block text-center text-white text-[13px] sm:text-[15px] md:text-[18px] hover:underline leading-tight break-all'>
+                                    Email: cirjeudumitru1@gmail.com
                                 </a>
                                 <a href='tel:+37367100431' className='aTel block text-center text-white text-[13px] sm:text-[15px] md:text-[18px] hover:underline leading-tight'>
                                     Telefon: +37367100431
